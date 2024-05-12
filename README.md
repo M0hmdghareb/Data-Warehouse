@@ -1,7 +1,7 @@
 # DataWarehouse
 DATA ENGINEERING NANODEGREE, DWH Project Using AWS REDSHIFT 
 
-![img](/imagws/FLOW-01.png)
+![img](/images/FLOW-01.png)
 
 ## Introduction
 
@@ -29,7 +29,7 @@ song_data/A/A/B/TRAABJL12903CDCF1A.json
 ```
 And below is an example of what a single song file, TRAABJL12903CDCF1A.json, looks like.
 
-![img](/imagws/song.png)
+![img](/images/song.png)
 
 
 ### Log Dataset
@@ -61,7 +61,7 @@ And below is an example of what the data in a log file, 2018-11-12-events.json, 
 5. **time** - timestamps of records in **songplays** broken down into specific units
      - start_time, hour, day, week, month, year, weekday
 
-![img](/imagws/sp_erd.png)
+![img](/images/sp_erd.png)
 
 ## Project Steps
 1. Create IAM ROLE allowing Programmatic access.
